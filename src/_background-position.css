@@ -24,7 +24,7 @@
   background-position: center center; 
 }
 
-.bg-top {    
+/* .bg-top {    
   background-repeat: no-repeat; 
   background-position: top center;    
 }
@@ -42,7 +42,7 @@
 .bg-left {   
   background-repeat: no-repeat; 
   background-position: center left;   
-}
+} */
 
 @media (--breakpoint-not-small) {
   .bg-center-ns { 
@@ -50,7 +50,7 @@
     background-position: center center; 
   }
 
-  .bg-top-ns {    
+  /* .bg-top-ns {    
     background-repeat: no-repeat; 
     background-position: top center;    
   }
@@ -68,7 +68,7 @@
   .bg-left-ns {   
     background-repeat: no-repeat; 
     background-position: center left;   
-  }
+  } */
 }
 
 @media (--breakpoint-medium) {
@@ -77,7 +77,7 @@
     background-position: center center; 
   }
 
-  .bg-top-m {    
+  /* .bg-top-m {    
     background-repeat: no-repeat; 
     background-position: top center;    
   }
@@ -95,7 +95,7 @@
   .bg-left-m {   
     background-repeat: no-repeat; 
     background-position: center left;   
-  }
+  } */
 }
 
 @media (--breakpoint-large) {
@@ -104,7 +104,7 @@
     background-position: center center; 
   }
 
-  .bg-top-l {    
+  /* .bg-top-l {    
     background-repeat: no-repeat; 
     background-position: top center;    
   }
@@ -122,5 +122,5 @@
   .bg-left-l {   
     background-repeat: no-repeat; 
     background-position: center left;   
-  }
+  } */
 }

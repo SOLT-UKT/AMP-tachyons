@@ -10,9 +10,9 @@
 */
 
 /* Equivalent to .overflow-y-scroll */
-.overflow-container {
+/* .overflow-container {
   overflow-y: scroll;
-}
+} */
 
 .center {
   margin-right: auto;

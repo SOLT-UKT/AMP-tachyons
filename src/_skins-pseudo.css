@@ -15,28 +15,28 @@
 .hover-dark-gray:focus { color: var(--dark-gray); }
 .hover-mid-gray:hover, 
 .hover-mid-gray:focus { color: var(--mid-gray); }
-.hover-gray:hover, 
+/* .hover-gray:hover, 
 .hover-gray:focus { color: var(--gray); }
 .hover-silver:hover, 
 .hover-silver:focus { color: var(--silver); }
 .hover-light-silver:hover, 
-.hover-light-silver:focus { color: var(--light-silver); }
+.hover-light-silver:focus { color: var(--light-silver); } */
 .hover-moon-gray:hover, 
 .hover-moon-gray:focus { color: var(--moon-gray); }
 .hover-light-gray:hover, 
 .hover-light-gray:focus { color: var(--light-gray); }
-.hover-near-white:hover, 
-.hover-near-white:focus { color: var(--near-white); }
+/* .hover-near-white:hover, 
+.hover-near-white:focus { color: var(--near-white); } */
 .hover-white:hover, 
 .hover-white:focus { color: var(--white); }
 
 .hover-black-90:hover,
 .hover-black-90:focus { color: var(--black-90); }
-.hover-black-80:hover,
-.hover-black-80:focus { color: var(--black-80); }
+/* .hover-black-80:hover,
+.hover-black-80:focus { color: var(--black-80); } */
 .hover-black-70:hover,
 .hover-black-70:focus { color: var(--black-70); }
-.hover-black-60:hover,
+/* .hover-black-60:hover,
 .hover-black-60:focus { color: var(--black-60); }
 .hover-black-50:hover,
 .hover-black-50:focus { color: var(--black-50); }
@@ -47,8 +47,8 @@
 .hover-black-20:hover,
 .hover-black-20:focus { color: var(--black-20); }
 .hover-black-10:hover,
-.hover-black-10:focus { color: var(--black-10); }
-.hover-white-90:hover,
+.hover-black-10:focus { color: var(--black-10); } */
+/* .hover-white-90:hover,
 .hover-white-90:focus { color: var(--white-90); }
 .hover-white-80:hover,
 .hover-white-80:focus { color: var(--white-80); }
@@ -65,36 +65,36 @@
 .hover-white-20:hover,
 .hover-white-20:focus { color: var(--white-20); }
 .hover-white-10:hover,
-.hover-white-10:focus { color: var(--white-10); }
-.hover-inherit:hover,
-.hover-inherit:focus { color: inherit; }
+.hover-white-10:focus { color: var(--white-10); } */
+/* .hover-inherit:hover,
+.hover-inherit:focus { color: inherit; } */
 
 .hover-bg-black:hover, 
 .hover-bg-black:focus { background-color: var(--black); }
-.hover-bg-near-black:hover, 
-.hover-bg-near-black:focus { background-color: var(--near-black); }
+/* .hover-bg-near-black:hover, 
+.hover-bg-near-black:focus { background-color: var(--near-black); } */
 .hover-bg-dark-gray:hover, 
 .hover-bg-dark-gray:focus { background-color: var(--dark-gray); }
 .hover-bg-mid-gray:hover, 
 .hover-bg-mid-gray:focus { background-color: var(--mid-gray); }
-.hover-bg-gray:hover, 
-.hover-bg-gray:focus { background-color: var(--gray); }
-.hover-bg-silver:hover, 
-.hover-bg-silver:focus { background-color: var(--silver); }
-.hover-bg-light-silver:hover, 
-.hover-bg-light-silver:focus { background-color: var(--light-silver); }
+/* .hover-bg-gray:hover, 
+.hover-bg-gray:focus { background-color: var(--gray); } */
+/* .hover-bg-silver:hover, 
+.hover-bg-silver:focus { background-color: var(--silver); } */
+/* .hover-bg-light-silver:hover, 
+.hover-bg-light-silver:focus { background-color: var(--light-silver); } */
 .hover-bg-moon-gray:hover, 
 .hover-bg-moon-gray:focus { background-color: var(--moon-gray); }
 .hover-bg-light-gray:hover, 
 .hover-bg-light-gray:focus { background-color: var(--light-gray); }
-.hover-bg-near-white:hover, 
-.hover-bg-near-white:focus { background-color: var(--near-white); }
+/* .hover-bg-near-white:hover, 
+.hover-bg-near-white:focus { background-color: var(--near-white); } */
 .hover-bg-white:hover, 
 .hover-bg-white:focus { background-color: var(--white); }
 .hover-bg-transparent:hover, 
 .hover-bg-transparent:focus { background-color: var(--transparent); }
 
-.hover-bg-black-90:hover,
+/* .hover-bg-black-90:hover,
 .hover-bg-black-90:focus { background-color: var(--black-90); }
 .hover-bg-black-80:hover,
 .hover-bg-black-80:focus { background-color: var(--black-80); }
@@ -111,8 +111,8 @@
 .hover-bg-black-20:hover,
 .hover-bg-black-20:focus { background-color: var(--black-20); }
 .hover-bg-black-10:hover,
-.hover-bg-black-10:focus { background-color: var(--black-10); }
-.hover-bg-white-90:hover,
+.hover-bg-black-10:focus { background-color: var(--black-10); } */
+/* .hover-bg-white-90:hover,
 .hover-bg-white-90:focus { background-color: var(--white-90); }
 .hover-bg-white-80:hover,
 .hover-bg-white-80:focus { background-color: var(--white-80); }
@@ -129,9 +129,9 @@
 .hover-bg-white-20:hover,
 .hover-bg-white-20:focus { background-color: var(--white-20); }
 .hover-bg-white-10:hover,
-.hover-bg-white-10:focus { background-color: var(--white-10); }
+.hover-bg-white-10:focus { background-color: var(--white-10); } */
 
-.hover-dark-red:hover,
+/* .hover-dark-red:hover,
 .hover-dark-red:focus { color: var(--dark-red); }
 .hover-red:hover,
 .hover-red:focus { color: var(--red); }
@@ -233,4 +233,4 @@
 .hover-bg-washed-red:hover,
 .hover-bg-washed-red:focus { background-color: var(--washed-red); }
 .hover-bg-inherit:hover,
-.hover-bg-inherit:focus { background-color: inherit; }
+.hover-bg-inherit:focus { background-color: inherit; } */

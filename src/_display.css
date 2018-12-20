@@ -28,29 +28,29 @@
 .di {              display: inline; }
 .db {              display: block; }
 .dib {             display: inline-block; }
-.dit {             display: inline-table; }
+/* .dit {             display: inline-table; }
 .dt {              display: table; }
 .dtc {             display: table-cell; }
 .dt-row {          display: table-row; }
 .dt-row-group {    display: table-row-group; }
 .dt-column {       display: table-column; }
-.dt-column-group { display: table-column-group; }
+.dt-column-group { display: table-column-group; } */
 
 /*
   This will set table to full width and then
   all cells will be equal width
 */
-.dt--fixed {
+/* .dt--fixed {
   table-layout: fixed;
   width: 100%;
-}
+} */
 
 @media (--breakpoint-not-small) {
   .dn-ns {              display: none; }
   .di-ns {              display: inline; }
   .db-ns {              display: block; }
   .dib-ns {             display: inline-block; }
-  .dit-ns {             display: inline-table; }
+  /* .dit-ns {             display: inline-table; }
   .dt-ns {              display: table; }
   .dtc-ns {             display: table-cell; }
   .dt-row-ns {          display: table-row; }
@@ -61,7 +61,7 @@
   .dt--fixed-ns {
     table-layout: fixed;
     width: 100%;
-  }
+  } */
 }
 
 @media (--breakpoint-medium) {
@@ -69,7 +69,7 @@
   .di-m {              display: inline; }
   .db-m {              display: block; }
   .dib-m {             display: inline-block; }
-  .dit-m {             display: inline-table; }
+  /* .dit-m {             display: inline-table; }
   .dt-m {              display: table; }
   .dtc-m {             display: table-cell; }
   .dt-row-m {          display: table-row; }
@@ -80,7 +80,7 @@
   .dt--fixed-m {
     table-layout: fixed;
     width: 100%;
-  }
+  } */
 }
 
 @media (--breakpoint-large) {
@@ -88,7 +88,7 @@
   .di-l {              display: inline; }
   .db-l {              display: block; }
   .dib-l {             display: inline-block; }
-  .dit-l {             display: inline-table; }
+  /* .dit-l {             display: inline-table; }
   .dt-l {              display: table; }
   .dtc-l {             display: table-cell; }
   .dt-row-l {          display: table-row; }
@@ -99,6 +99,6 @@
   .dt--fixed-l {
     table-layout: fixed;
     width: 100%;
-  }
+  } */
 }
 
