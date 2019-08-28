@@ -382,6 +382,8 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .b--black-05 { border-color: rgba( 0, 0, 0, .05 ); }
 .b--black-025 { border-color: rgba( 0, 0, 0, .025 ); }
 .b--black-0125 { border-color: rgba( 0, 0, 0, .0125 ); }
+.b--booking-orange-light { border-color: #ff7e00; }
+.hover-b--booking-orange:hover { border-color: #e84c0f; }
 /* .b--dark-red { border-color: var(--dark-red); }
 .b--red { border-color: var(--red); }
 .b--light-red { border-color: var(--light-red); }
@@ -909,6 +911,7 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .w-80 { width: 80%; }
 .w-90 { width: 90%; }
 .w-100 { width: 100%; }
+.mw9-5 { max-width: 106rem; }
 .w-third { width: 33.33333%; }
 /* .w-two-thirds { width: calc(100% / 1.5); } */
 .w-auto { width: auto; }
@@ -1069,6 +1072,8 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 /* .bg-near-white {    background-color: var(--near-white); } */
 .bg-white { background-color: #fff; }
 .bg-transparent { background-color: transparent; }
+.bg-booking-orange-light { background-color: #ff7e00; }
+.bg-booking-orange-light { background-color: #ff7e00; }
 /* .bg-dark-red { background-color: var(--dark-red); }
 .bg-red { background-color: var(--red); }
 .bg-light-red { background-color: var(--light-red); }
@@ -1187,6 +1192,10 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .hover-bg-white:focus { background-color: #fff; }
 .hover-bg-transparent:hover { background-color: transparent; }
 .hover-bg-transparent:focus { background-color: transparent; }
+.hover-bg-booking-orange:hover { background-color: #ff7e00; }
+.hover-bg-booking-orange:focus { background-color: #ff7e00; }
+.hover-bg-booking-orange-light:hover { background-color: #ff7e00; }
+.hover-bg-booking-orange-light:focus { background-color: #ff7e00; }
 /* .hover-bg-black-90:hover,
 .hover-bg-black-90:focus { background-color: var(--black-90); }
 .hover-bg-black-80:hover,

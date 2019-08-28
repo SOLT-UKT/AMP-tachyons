@@ -94,6 +94,11 @@
 .hover-bg-transparent:hover, 
 .hover-bg-transparent:focus { background-color: var(--transparent); }
 
+.hover-bg-booking-orange:hover,
+.hover-bg-booking-orange:focus {background-color: var(--booking-orange-light)}
+.hover-bg-booking-orange-light:hover,
+.hover-bg-booking-orange-light:focus {background-color: var(--booking-orange-light)}
+
 /* .hover-bg-black-90:hover,
 .hover-bg-black-90:focus { background-color: var(--black-90); }
 .hover-bg-black-80:hover,

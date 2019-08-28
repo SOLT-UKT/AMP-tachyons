@@ -56,6 +56,9 @@
 .b--black-025 {   border-color: var(--black-025); }
 .b--black-0125 {   border-color: var(--black-0125); }
 
+.b--booking-orange-light {   border-color: var(--booking-orange-light); }
+.hover-b--booking-orange:hover {   border-color: var(--booking-orange); }
+
 /* .b--dark-red { border-color: var(--dark-red); }
 .b--red { border-color: var(--red); }
 .b--light-red { border-color: var(--light-red); }
