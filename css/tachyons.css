@@ -1058,7 +1058,7 @@ input[type="tel"], input[type="text"], input[type="url"], .border-box { box-sizi
 .bg-white-20 { background-color: rgba( 255, 255, 255, .2 ); }
 .bg-white-10 { background-color: rgba( 255, 255, 255, .1 ); }
 .bg-black { background-color: #000; }
-/* .bg-near-black {    background-color: var(--near-black); } */
+.bg-near-black { background-color: #111; }
 .bg-dark-gray { background-color: #333; }
 .bg-mid-gray { background-color: #555; }
 /* .bg-gray {          background-color: var(--gray); }

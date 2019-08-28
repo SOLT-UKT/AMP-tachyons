@@ -96,7 +96,7 @@
 .bg-white-10 {        background-color: var(--white-10); }
 
 .bg-black {         background-color: var(--black); }
-/* .bg-near-black {    background-color: var(--near-black); } */
+.bg-near-black {    background-color: var(--near-black); }
 .bg-dark-gray {     background-color: var(--dark-gray); }
 .bg-mid-gray {      background-color: var(--mid-gray); }
 /* .bg-gray {          background-color: var(--gray); }
